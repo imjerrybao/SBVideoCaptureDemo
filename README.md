@@ -17,7 +17,10 @@ Usage:
 ----------
 1. Import 4 framework
 ```
-MediaPlayer.framework(if "PlayVeiwController is needed"), QuartzCore.framework, AVFoundation.framework, CoreGraphics.framework;
+MediaPlayer.framework(if "PlayVeiwController is needed"), 
+QuartzCore.framework, 
+AVFoundation.framework, 
+CoreGraphics.framework;
 ```
 
 2. Drag "SBVideoCapture" folder to your project;
