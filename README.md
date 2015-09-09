@@ -9,7 +9,6 @@ A custom UI video recording demo with AVFoundation.framework, recording multiple
 ------------
 
 <img src="https://github.com/imjerrybao/SBVideoCaptureDemo/blob/master/SBVideoCaptureDemo/SBVideoCaptureDemo/SBVideoCaptureDemo/IMG_0970.PNG" alt="Drawing" width="320px" />
-
 <img src="https://github.com/imjerrybao/SBVideoCaptureDemo/blob/master/SBVideoCaptureDemo/SBVideoCaptureDemo/SBVideoCaptureDemo/IMG_0971.PNG" alt="Drawing" width="320px" />
 
 
