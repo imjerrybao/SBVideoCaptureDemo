@@ -8,9 +8,9 @@ A custom UI video recording demo with AVFoundation.framework, recording multiple
 ## ScreenShots:
 ------------
 
-![screenShot1][1]
+<img src="https://github.com/imjerrybao/SBVideoCaptureDemo/blob/master/SBVideoCaptureDemo/SBVideoCaptureDemo/SBVideoCaptureDemo/IMG_0970.PNG" alt="Drawing" width="320px" />
 
-![screenShot2][2]
+<img src="https://github.com/imjerrybao/SBVideoCaptureDemo/blob/master/SBVideoCaptureDemo/SBVideoCaptureDemo/SBVideoCaptureDemo/IMG_0971.PNG" alt="Drawing" width="320px" />
 
 
 Usage:
